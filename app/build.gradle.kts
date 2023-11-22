@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.cleanarchitecturenoteapp"
+    namespace = "com.kendis.cleanarchitecturenoteapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.cleanarchitecturenoteapp"
+        applicationId = "com.kendis.cleanarchitecturenoteapp"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
