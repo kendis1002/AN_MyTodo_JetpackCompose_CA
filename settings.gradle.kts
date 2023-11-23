@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CleanArchitectureNoteApp"
+rootProject.name = "Your Note"
 include(":app")
  
